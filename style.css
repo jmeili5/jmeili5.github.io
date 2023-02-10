@@ -101,8 +101,8 @@ ul.book {
     list-style-position: outside;
 }
 
-ul.phone {
-    list-style: "📱   ";
+ul.computer {
+    list-style: "💻   ";
     list-style-position: outside;
 }
 
